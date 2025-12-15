@@ -25,3 +25,21 @@ body {
     color: yellow;
     background-color: orangered;
 }
+
+img{ 
+    margin: 25px;
+}
+
+h3 {
+    margin: 20px;
+    color: rgb(255, 238, 0)
+}
+
+p{
+    margin:20px
+}
+
+h2{ 
+    margin: 10px;
+    color: lightgreen
+}
